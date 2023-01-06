@@ -1,0 +1,30 @@
+segment_sources:
+  I40AF4ECD:
+    type: origin_type
+    relation: translation
+    base: 764F
+    lang: en
+  IF227F048:
+    type: origin_type
+    relation: translation
+    base: 0CF3
+    lang: bo
+segment_pairs:
+  b213c5d685554027832188cd19dac93f:
+    I40AF4ECD: 502ce74b01c940bf9eba358fdae0403c
+    IF227F048: 5049c5e6ade041b5bb097242f6100bb4
+  fc76f1d2fce14e0c91288f0efc2c16db:
+    I40AF4ECD: 3a5021fee27a466498ee8c60e9781a9c
+    IF227F048: fd7ab9c00d5d48e49e74022ca9526d40
+  cfd31b9caefb4a8b8998d486ecbc26c5:
+    I40AF4ECD: 5ef318414bfa4fd2a70a625acde8b595
+    IF227F048: d390a006ac884c218056c3ba018fe20e
+  fc56f994fda7442aa96a1ee1d404870c:
+    I40AF4ECD: 64747818eb224cf8a98b42289d5f4061
+    IF227F048: f0d44377a2684b3d90e9a77849dc0030
+  1ea69d322eb145fbb26faa2f8f3842aa:
+    I40AF4ECD: fd26f1c0047a49eeb17576c0b5489b77
+    IF227F048: f450f3fab5a74a689635e64b395f479b
+  5f316f4ab87249a3af7353e02816aee6:
+    I40AF4ECD: 5a8724afdcd84416879f5a7a4292cbe1
+    IF227F048: be6e9dd9cf2f42abba40e6169f3f5014
